@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>FIKY</o:Author>
   <o:LastAuthor>FIKY</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
   <o:Created>2021-12-16T16:24:00Z</o:Created>
-  <o:LastSaved>2021-12-16T16:25:00Z</o:LastSaved>
+  <o:LastSaved>2021-12-16T16:27:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>13</o:Words>
-  <o:Characters>79</o:Characters>
+  <o:Characters>77</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>91</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>89</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -35,8 +35,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Print</w:View>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -51,6 +49,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -657,9 +656,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	font-family:"Times New Roman","serif";
 	mso-fareast-font-family:"Times New Roman";
 	mso-fareast-theme-font:minor-fareast;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -705,15 +701,10 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
-los-<span class=SpellE>nenitos</span><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'># los-nenitos<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>###
 A website for kids clothing.<o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>https://mohamedfiky.github.io/los-nenitos
 <o:p></o:p></span></p>
