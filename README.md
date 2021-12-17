@@ -1,25 +1,19 @@
 # los-nenitos
 
- 
 
 ### A website for kids clothing.
 
- 
 
-(https://mohamedfiky.github.io/los-nenitos)
+https://mohamedfiky.github.io/los-nenitos
 
- 
+#### Tools used :
 
--         HTML
+- HTML
 
--         Css
+- Css
 
--         JavaScript
-
- 
+- JavaScript
 
 This website is **responsive**.
 
- 
-
-The design is from *Canva* website/. 
+The design is from *Canva* website. 
